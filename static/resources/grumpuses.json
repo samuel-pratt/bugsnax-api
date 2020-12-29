@@ -1,0 +1,269 @@
+[
+  {
+    "id": 1,
+    "name": "Filbo Fiddlepie",
+    "occupation": "Mayor",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Snaxburg"
+      },
+      {
+        "id": 3,
+        "name": "Flavor Falls"
+      }
+    ],
+    "loves": [
+      {
+        "id": 10,
+        "name": "Lizbert"
+      }
+    ],
+    "hates": [],
+    "fears": []
+  },
+  {
+    "id": 2,
+    "name": "Wambus",
+    "occupation": "",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Snaxburg"
+      }
+    ],
+    "loves": [],
+    "hates": [],
+    "fears": []
+  },
+  {
+    "id": 3,
+    "name": "Beffica Winklesnoot",
+    "occupation": "Information Specialist",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Snaxburg"
+      },
+      {
+        "id": 2,
+        "name": "Garden Grove"
+      }
+    ],
+    "loves": [],
+    "hates": [
+      {
+        "id": 1,
+        "name": "Filbo"
+      },
+      {
+        "id": 13,
+        "name": "Cromdo"
+      }
+    ],
+    "fears": []
+  },
+  {
+    "id": 4,
+    "name": "Triffany",
+    "occupation": "",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Snaxburg"
+      }
+    ],
+    "loves": [],
+    "hates": [],
+    "fears": []
+  },
+  {
+    "id": 5,
+    "name": "Floofty Fizzlebean",
+    "occupation": "",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Snaxburg"
+      }
+    ],
+    "loves": [],
+    "hates": [],
+    "fears": []
+  },
+  {
+    "id": 6,
+    "name": "Gramble Gigglefunny",
+    "occupation": "",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Snaxburg"
+      }
+    ],
+    "loves": [],
+    "hates": [],
+    "fears": []
+  },
+  {
+    "id": 7,
+    "name": "Shelda",
+    "occupation": "",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Snaxburg"
+      }
+    ],
+    "loves": [],
+    "hates": [],
+    "fears": []
+  },
+  {
+    "id": 8,
+    "name": "Snorpy",
+    "occupation": "",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Snaxburg"
+      }
+    ],
+    "loves": [],
+    "hates": [],
+    "fears": []
+  },
+  {
+    "id": 9,
+    "name": "Wiggle",
+    "occupation": "",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Snaxburg"
+      }
+    ],
+    "loves": [],
+    "hates": [],
+    "fears": []
+  },
+  {
+    "id": 10,
+    "name": "Elizabert \"Lizbert\" Megafig",
+    "occupation": "Explorer",
+    "locations": [
+      {
+        "id": 10,
+        "name": "The Undersnax"
+      }
+    ],
+    "loves": [
+      {
+        "id": 1,
+        "name": "Filbo"
+      },
+      {
+        "id": 11,
+        "name": "Eggabell"
+      }
+    ],
+    "hates": [],
+    "fears": []
+  },
+  {
+    "id": 11,
+    "name": "Eggabell Batternugget",
+    "occupation": "Physician",
+    "locations": [
+      {
+        "id": 9,
+        "name": "Frosted Peak"
+      }
+    ],
+    "loves": [
+      {
+        "id": 10,
+        "name": "Lizbert"
+      },
+      {
+        "id": 12,
+        "name": "Chandlo"
+      }
+    ],
+    "hates": [],
+    "fears": [
+      {
+        "id": 7,
+        "name": "Shelda"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Chandlo Funkbun",
+    "occupation": "Lifting",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Snaxburg"
+      },
+      {
+        "id": 8,
+        "name": "Sugarpine Woods"
+      }
+    ],
+    "loves": [
+      {
+        "id": 8,
+        "name": "Snorpy"
+      },
+      {
+        "id": 11,
+        "name": "Eggabell"
+      },
+      {
+        "id": 7,
+        "name": "Shelda"
+      }
+    ],
+    "hates": [],
+    "fears": []
+  },
+  {
+    "id": 13,
+    "name": "Cromdo Face",
+    "occupation": "Salesman",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Snaxburg"
+      },
+      {
+        "id": 6,
+        "name": "Scorched Gorge"
+      }
+    ],
+    "loves": [],
+    "hates": [
+      {
+        "id": 3,
+        "name": "Beffica"
+      }
+    ],
+    "fears": []
+  },
+  {
+    "id": 15,
+    "name": "Clum Clumby Clumbernut",
+    "occupation": "",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Snaxburg"
+      }
+    ],
+    "loves": [],
+    "hates": [],
+    "fears": []
+  }
+]

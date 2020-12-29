@@ -1,0 +1,575 @@
+[
+  {
+    "id": 1,
+    "name": "Snaxburg",
+    "inhabitants": [
+      {
+        "id": 1,
+        "name": "Filbo"
+      },
+      {
+        "id": 2,
+        "name": "Wambus"
+      },
+      {
+        "id": 3,
+        "name": "Beffica"
+      },
+      {
+        "id": 4,
+        "name": "Triffany"
+      },
+      {
+        "id": 5,
+        "name": "Floofty"
+      },
+      {
+        "id": 6,
+        "name": "Gramble"
+      },
+      {
+        "id": 7,
+        "name": "Shelda"
+      },
+      {
+        "id": 8,
+        "name": "Snorpy"
+      },
+      {
+        "id": 9,
+        "name": "Wiggle"
+      },
+      {
+        "id": 10,
+        "name": "Lizbert"
+      },
+      {
+        "id": 11,
+        "name": "Eggabell"
+      },
+      {
+        "id": 12,
+        "name": "Chandlo"
+      },
+      {
+        "id": 13,
+        "name": "Cromdo"
+      }
+    ],
+    "bugsnax": []
+  },
+  {
+    "id": 2,
+    "name": "Garden Grove",
+    "inhabitants": [
+      {
+        "id": 2,
+        "name": "Wambus"
+      },
+      {
+        "id": 3,
+        "name": "Beffica"
+      }
+    ],
+    "bugsnax": [
+      {
+        "id": 1,
+        "name": "Bunger"
+      },
+      {
+        "id": 2,
+        "name": "Fryder"
+      },
+      {
+        "id": 3,
+        "name": "Shishkabug"
+      },
+      {
+        "id": 4,
+        "name": "Sweetiefly"
+      },
+      {
+        "id": 5,
+        "name": "White Strabby"
+      },
+      {
+        "id": 6,
+        "name": "Dr Sodie"
+      },
+      {
+        "id": 7,
+        "name": "Weenyworm"
+      },
+      {
+        "id": 8,
+        "name": "Cobhopper"
+      },
+      {
+        "id": 9,
+        "name": "Crispy Snakpod"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Flavor Falls",
+    "inhabitants": [
+      {
+        "id": 1,
+        "name": "Filbo"
+      }
+    ],
+    "bugsnax": [
+      {
+        "id": 10,
+        "name": "Strabby"
+      },
+      {
+        "id": 11,
+        "name": "Pinkle"
+      },
+      {
+        "id": 12,
+        "name": "Rootle"
+      },
+      {
+        "id": 13,
+        "name": "Rootle (White)"
+      },
+      {
+        "id": 14,
+        "name": "Green Lollive"
+      },
+      {
+        "id": 15,
+        "name": "Inchwrap"
+      },
+      {
+        "id": 16,
+        "name": "Sandopede"
+      },
+      {
+        "id": 17,
+        "name": "Sub Sandopede"
+      },
+      {
+        "id": 18,
+        "name": "Ruby Peelbug"
+      },
+      {
+        "id": 19,
+        "name": "Caramel Poptick"
+      },
+      {
+        "id": 20,
+        "name": "Twisty Snakpod"
+      },
+      {
+        "id": 21,
+        "name": "Wee Mewon"
+      },
+      {
+        "id": 22,
+        "name": "Mama Mewon"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Simmering Springs",
+    "inhabitants": [
+      {
+        "id": 6,
+        "name": "Gramble"
+      },
+      {
+        "id": 9,
+        "name": "Wiggle"
+      }
+    ],
+    "bugsnax": [
+      {
+        "id": 23,
+        "name": "Kweeble"
+      },
+      {
+        "id": 24,
+        "name": "Crapple"
+      },
+      {
+        "id": 25,
+        "name": "Pineantula"
+      },
+      {
+        "id": 26,
+        "name": "Orange Peelbug"
+      },
+      {
+        "id": 27,
+        "name": "Razzby"
+      },
+      {
+        "id": 28,
+        "name": "Green Grapeskeeto"
+      },
+      {
+        "id": 29,
+        "name": "Snaquiri"
+      },
+      {
+        "id": 30,
+        "name": "Tropicabug"
+      },
+      {
+        "id": 31,
+        "name": "Lovely Sweetiefly"
+      },
+      {
+        "id": 32,
+        "name": "Baja Tacroach"
+      },
+      {
+        "id": 33,
+        "name": "Waffstackarack"
+      },
+      {
+        "id": 34,
+        "name": "Grumpy Snakpod"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Boiling Bay",
+    "inhabitants": [
+      {
+        "id": 5,
+        "name": "Floofty"
+      }
+    ],
+    "bugsnax": [
+      {
+        "id": 35,
+        "name": "Green Crapple"
+      },
+      {
+        "id": 36,
+        "name": "Grapeskeeto"
+      },
+      {
+        "id": 37,
+        "name": "Greater Cocomite"
+      },
+      {
+        "id": 38,
+        "name": "Lesser Cocomite"
+      },
+      {
+        "id": 39,
+        "name": "La Sodieux"
+      },
+      {
+        "id": 40,
+        "name": "Noodler"
+      },
+      {
+        "id": 41,
+        "name": "Paletoss"
+      },
+      {
+        "id": 42,
+        "name": "Paletoss Grande"
+      },
+      {
+        "id": 43,
+        "name": "Red Banopper"
+      },
+      {
+        "id": 44,
+        "name": "Flamin' Cheepoof"
+      },
+      {
+        "id": 45,
+        "name": "Sherbie"
+      },
+      {
+        "id": 46,
+        "name": "Fruity Snakpod"
+      },
+      {
+        "id": 47,
+        "name": "Minimaki"
+      },
+      {
+        "id": 48,
+        "name": "Megamaki"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Scorched Gorge",
+    "inhabitants": [
+      {
+        "id": 4,
+        "name": "Triffany"
+      },
+      {
+        "id": 13,
+        "name": "Cromdo"
+      }
+    ],
+    "bugsnax": [
+      {
+        "id": 49,
+        "name": "BBQ Bunger"
+      },
+      {
+        "id": 50,
+        "name": "Sweet Fryder"
+      },
+      {
+        "id": 51,
+        "name": "Ribblepede"
+      },
+      {
+        "id": 52,
+        "name": "Poptick"
+      },
+      {
+        "id": 53,
+        "name": "Spuddy"
+      },
+      {
+        "id": 54,
+        "name": "Scorpenyo"
+      },
+      {
+        "id": 55,
+        "name": "Shy Weenyworm"
+      },
+      {
+        "id": 56,
+        "name": "Cheepoof"
+      },
+      {
+        "id": 57,
+        "name": "White Cheepoof"
+      },
+      {
+        "id": 58,
+        "name": "Crystal Sweetiefly"
+      },
+      {
+        "id": 59,
+        "name": "Green Peelbug"
+      },
+      {
+        "id": 60,
+        "name": "Puffy Snakpod"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Sizzlin' Sands",
+    "inhabitants": [
+      {
+        "id": 7,
+        "name": "Shelda"
+      }
+    ],
+    "bugsnax": [
+      {
+        "id": 61,
+        "name": "Tacroach"
+      },
+      {
+        "id": 62,
+        "name": "Preying Picantis"
+      },
+      {
+        "id": 63,
+        "name": "Black Lollive"
+      },
+      {
+        "id": 64,
+        "name": "Loaded Spuddy"
+      },
+      {
+        "id": 65,
+        "name": "Buffalocust"
+      },
+      {
+        "id": 66,
+        "name": "Eggler"
+      },
+      {
+        "id": 67,
+        "name": "Flapjackarak"
+      },
+      {
+        "id": 68,
+        "name": "Scorpepper"
+      },
+      {
+        "id": 69,
+        "name": "Incherrito"
+      },
+      {
+        "id": 70,
+        "name": "Black Razzby"
+      },
+      {
+        "id": 71,
+        "name": "Sodie D"
+      },
+      {
+        "id": 72,
+        "name": "Cheezer"
+      },
+      {
+        "id": 73,
+        "name": "Meaty Snakpod"
+      },
+      {
+        "id": 74,
+        "name": "Bombino"
+      },
+      {
+        "id": 75,
+        "name": "Mothza Supreme"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Sugarpine Woods",
+    "inhabitants": [
+      {
+        "id": 8,
+        "name": "Snorpy"
+      },
+      {
+        "id": 12,
+        "name": "Chandlo"
+      }
+    ],
+    "bugsnax": [
+      {
+        "id": 76,
+        "name": "Kwookie"
+      },
+      {
+        "id": 77,
+        "name": "Charmallow"
+      },
+      {
+        "id": 78,
+        "name": "Cinnasnail"
+      },
+      {
+        "id": 79,
+        "name": "Hunnabe"
+      },
+      {
+        "id": 80,
+        "name": "Sprinklepede"
+      },
+      {
+        "id": 81,
+        "name": "Yellow Peelbug"
+      },
+      {
+        "id": 82,
+        "name": "Bopsicle"
+      },
+      {
+        "id": 83,
+        "name": "Big Bopsicle"
+      },
+      {
+        "id": 84,
+        "name": "Rainbow Sweetiefly"
+      },
+      {
+        "id": 85,
+        "name": "Nutty Snakpod"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Frosted Peak",
+    "inhabitants": [
+      {
+        "id": 11,
+        "name": "Eggabell"
+      }
+    ],
+    "bugsnax": [
+      {
+        "id": 86,
+        "name": "Banopper"
+      },
+      {
+        "id": 87,
+        "name": "Scoopy"
+      },
+      {
+        "id": 88,
+        "name": "Cheery"
+      },
+      {
+        "id": 89,
+        "name": "Scoopy Banoopy"
+      },
+      {
+        "id": 90,
+        "name": "Aggroll"
+      },
+      {
+        "id": 91,
+        "name": "Chippie"
+      },
+      {
+        "id": 92,
+        "name": "Chillynily"
+      },
+      {
+        "id": 93,
+        "name": "Flutterjam"
+      },
+      {
+        "id": 94,
+        "name": "Mt Sodie"
+      },
+      {
+        "id": 95,
+        "name": "Stewdler"
+      },
+      {
+        "id": 96,
+        "name": "Melty Snakpod"
+      },
+      {
+        "id": 97,
+        "name": "Instabug"
+      },
+      {
+        "id": 98,
+        "name": "Daddy Cakelegs"
+      },
+      {
+        "id": 99,
+        "name": "Baby Cakelegs"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "The Undersnax",
+    "inhabitants": [],
+    "bugsnax": []
+  }
+]
