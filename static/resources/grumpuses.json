@@ -24,16 +24,30 @@
   },
   {
     "id": 2,
-    "name": "Wambus",
-    "occupation": "",
+    "name": "Wambus Troubleham",
+    "occupation": "Farmer",
     "locations": [
       {
         "id": 1,
         "name": "Snaxburg"
+      },
+      {
+        "id": 2,
+        "name": "Garden Grove"
       }
     ],
-    "loves": [],
-    "hates": [],
+    "loves": [
+      {
+        "id": 4,
+        "name": "Triffany"
+      }
+    ],
+    "hates": [
+      {
+        "id": 6,
+        "name": "Gramble"
+      }
+    ],
     "fears": []
   },
   {
@@ -65,15 +79,28 @@
   },
   {
     "id": 4,
-    "name": "Triffany",
-    "occupation": "",
+    "name": "Triffany Lottablog",
+    "occupation": "Archaeologist",
     "locations": [
       {
         "id": 1,
         "name": "Snaxburg"
+      },
+      {
+        "id": 6,
+        "name": "Scorched Gorge"
       }
     ],
-    "loves": [],
+    "loves": [
+      {
+        "id": 2,
+        "name": "Wambus"
+      },
+      {
+        "id": 5,
+        "name": "Floofty"
+      }
+    ],
     "hates": [],
     "fears": []
   },
@@ -85,65 +112,142 @@
       {
         "id": 1,
         "name": "Snaxburg"
+      },
+      {
+        "id": 5,
+        "name": "Boiling Bay"
       }
     ],
-    "loves": [],
-    "hates": [],
+    "loves": [
+      {
+        "id": 11,
+        "name": "Eggabell"
+      },
+      {
+        "id": 4,
+        "name": "Triffany"
+      }
+    ],
+    "hates": [
+      {
+        "id": 7,
+        "name": "Shelda"
+      },
+      {
+        "id": 8,
+        "name": "Snorpy"
+      }
+    ],
     "fears": []
   },
   {
     "id": 6,
     "name": "Gramble Gigglefunny",
-    "occupation": "",
+    "occupation": "Bugsnax Caretaker",
     "locations": [
       {
         "id": 1,
         "name": "Snaxburg"
+      },
+      {
+        "id": 4,
+        "name": "Simmering Springs"
       }
     ],
-    "loves": [],
-    "hates": [],
+    "loves": [
+      {
+        "id": 9,
+        "name": "Wiggle"
+      }
+    ],
+    "hates": [
+      {
+        "id": 2,
+        "name": "Wambus"
+      }
+    ],
     "fears": []
   },
   {
     "id": 7,
-    "name": "Shelda",
-    "occupation": "",
+    "name": "Shellsy Woolbag",
+    "occupation": "Author",
     "locations": [
       {
         "id": 1,
         "name": "Snaxburg"
+      },
+      {
+        "id": 7,
+        "name": "Sizzlin' Sands"
       }
     ],
-    "loves": [],
-    "hates": [],
+    "loves": [
+      {
+        "id": 12,
+        "name": "Chandlo"
+      }
+    ],
+    "hates": [
+      {
+        "id": 5,
+        "name": "Floofty"
+      }
+    ],
     "fears": []
   },
   {
     "id": 8,
-    "name": "Snorpy",
-    "occupation": "",
+    "name": "Snorpy Fizzlebean",
+    "occupation": "Inventor",
     "locations": [
       {
         "id": 1,
         "name": "Snaxburg"
+      },
+      {
+        "id": 8,
+        "name": "Sugarpine Woods"
       }
     ],
-    "loves": [],
-    "hates": [],
+    "loves": [
+      {
+        "id": 12,
+        "name": "Chandlo"
+      }
+    ],
+    "hates": [
+      {
+        "id": 5,
+        "name": "Floofty"
+      }
+    ],
     "fears": []
   },
   {
     "id": 9,
-    "name": "Wiggle",
-    "occupation": "",
+    "name": "Wiggle Wigglebottom",
+    "occupation": "Performer",
     "locations": [
       {
         "id": 1,
         "name": "Snaxburg"
+      },
+      {
+        "id": 4,
+        "name": "Simmering Springs"
       }
     ],
-    "loves": [],
+    "loves": [
+      {
+        "id": 6,
+        "name": "Gramble"
+      },
+      {
+        "id": 10,
+        "name": "Lizbert"
+      }
+    ],
     "hates": [],
     "fears": []
   },
@@ -255,15 +359,15 @@
   {
     "id": 15,
     "name": "Clum Clumby Clumbernut",
-    "occupation": "",
-    "locations": [
+    "occupation": "GNN Employee",
+    "locations": [],
+    "loves": [],
+    "hates": [
       {
-        "id": 1,
-        "name": "Snaxburg"
+        "id": 10,
+        "name": "Lizbert"
       }
     ],
-    "loves": [],
-    "hates": [],
     "fears": []
   }
 ]
