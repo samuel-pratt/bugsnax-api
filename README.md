@@ -13,11 +13,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-<b>Built with</b>
-
-- [Flask](https://github.com/pallets/flask)
-- [Bootstrap](https://github.com/twbs/bootstrap)
-
 ## API Reference
 
 The api runs on the format:
