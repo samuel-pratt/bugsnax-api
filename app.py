@@ -33,7 +33,7 @@ def bugsnax_endpoint(index):
   if index.isdigit():
     if int(index) > len(data):
       return "Error: Invalid index"
-    return data[int(index)+1]
+    return data[int(index)-1]
   else:
     for i in data:
       if i['name'].lower().replace(" ", "") == index.lower().replace(" ", "").replace("-", ""):
@@ -56,7 +56,7 @@ def locations_endpoint(index):
   if index.isdigit():
     if int(index) > len(data):
       return "Error: Invalid index"
-    return data[int(index)+1]
+    return data[int(index)-1]
   else:
     for i in data:
       print(i)
@@ -81,7 +81,7 @@ def grumpuses_endpoint(index):
   if index.isdigit():
     if int(index) > len(data):
       return "Error: Invalid index"
-    return data[int(index)+1]
+    return data[int(index)-1]
   else:
     for i in data:
       if i['name'].lower().replace(" ", "") == index.lower().replace(" ", "").replace("-", ""):
