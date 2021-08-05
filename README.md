@@ -19,9 +19,7 @@ The api runs on the format:
 
 `https://bugsnaxapi.com/api/<category>/<index>`
 
-You can be as specific as needed, the fewer arguments there are, the more data you will recieve.
-
-For example, `https://www.bcferriesapi.ca/api/bugsnax` will return a list of all bugsnax.
+For example, `https://www.bugsnaxapi.com/api/bugsnax` will return a list of all bugsnax.
 
 Options for each are as follows:
 
