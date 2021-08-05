@@ -1,4 +1,4 @@
-# Bugsnax API - [bugsnaxapi.com](https://bugsnaxapi.com)
+# Bugsnax API
 
 The only public API for bugsnax.
 
@@ -56,3 +56,4 @@ If any of the parameters are not from the above, you will see one of the followi
 ```
 
 If you see an error not included in this list, there may be an issue with the API, please [submit an issue](https://github.com/samuel-pratt/bugsnax-api/issues/new)
+
