@@ -5,10 +5,6 @@
     "occupation": "Mayor",
     "locations": [
       {
-        "id": 1,
-        "name": "Snaxburg"
-      },
-      {
         "id": 3,
         "name": "Flavor Falls"
       }
@@ -27,10 +23,6 @@
     "name": "Wambus Troubleham",
     "occupation": "Farmer",
     "locations": [
-      {
-        "id": 1,
-        "name": "Snaxburg"
-      },
       {
         "id": 2,
         "name": "Garden Grove"
@@ -56,10 +48,6 @@
     "occupation": "Information Specialist",
     "locations": [
       {
-        "id": 1,
-        "name": "Snaxburg"
-      },
-      {
         "id": 2,
         "name": "Garden Grove"
       }
@@ -83,10 +71,6 @@
     "occupation": "Archaeologist",
     "locations": [
       {
-        "id": 1,
-        "name": "Snaxburg"
-      },
-      {
         "id": 6,
         "name": "Scorched Gorge"
       }
@@ -109,10 +93,6 @@
     "name": "Floofty Fizzlebean",
     "occupation": "",
     "locations": [
-      {
-        "id": 1,
-        "name": "Snaxburg"
-      },
       {
         "id": 5,
         "name": "Boiling Bay"
@@ -146,10 +126,6 @@
     "occupation": "Bugsnax Caretaker",
     "locations": [
       {
-        "id": 1,
-        "name": "Snaxburg"
-      },
-      {
         "id": 4,
         "name": "Simmering Springs"
       }
@@ -173,10 +149,6 @@
     "name": "Shellsy Woolbag",
     "occupation": "Author",
     "locations": [
-      {
-        "id": 1,
-        "name": "Snaxburg"
-      },
       {
         "id": 7,
         "name": "Sizzlin' Sands"
@@ -202,10 +174,6 @@
     "occupation": "Inventor",
     "locations": [
       {
-        "id": 1,
-        "name": "Snaxburg"
-      },
-      {
         "id": 8,
         "name": "Sugarpine Woods"
       }
@@ -229,10 +197,6 @@
     "name": "Wiggle Wigglebottom",
     "occupation": "Performer",
     "locations": [
-      {
-        "id": 1,
-        "name": "Snaxburg"
-      },
       {
         "id": 4,
         "name": "Simmering Springs"
@@ -308,10 +272,6 @@
     "occupation": "Lifting",
     "locations": [
       {
-        "id": 1,
-        "name": "Snaxburg"
-      },
-      {
         "id": 8,
         "name": "Sugarpine Woods"
       }
@@ -338,10 +298,6 @@
     "name": "Cromdo Face",
     "occupation": "Salesman",
     "locations": [
-      {
-        "id": 1,
-        "name": "Snaxburg"
-      },
       {
         "id": 6,
         "name": "Scorched Gorge"
