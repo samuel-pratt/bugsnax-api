@@ -569,7 +569,12 @@
   {
     "id": 10,
     "name": "The Undersnax",
-    "inhabitants": [],
+    "inhabitants": [
+      {
+        "id": 10,
+        "name": "Lizbert"
+      }
+    ],
     "bugsnax": []
   }
 ]
