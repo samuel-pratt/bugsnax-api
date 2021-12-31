@@ -1,6 +1,6 @@
 # Bugsnax API
 
-The only public API for bugsnax.
+🐛 The only public, open-source API for the game Bugsnax by Young Horses.
 
 ## Running locally
 
