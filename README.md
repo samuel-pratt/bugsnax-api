@@ -1,6 +1,6 @@
 # Bugsnax API
 
-🐛 The only public, open-source API for the game Bugsnax by Young Horses.
+🐛 The only public, open-source API for the game Bugsnax by Young Horses. It's hosted on a heroku free teir, so it can have occasional slowdowns.
 
 ## Running locally
 
